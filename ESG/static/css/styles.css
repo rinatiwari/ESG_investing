@@ -70,9 +70,7 @@ ul li a {
     color: white;
     display: block; */
 }
-/* ul li a:hover {
-    background-color:rgb(50, 58, 50)
-} */
+
 ul li ul li {
     display: none;
 }
@@ -95,16 +93,6 @@ ul li:hover ul li {
   position: relative;
 }
 
-/* .jumbotron > .overlay {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-color: rgba(8, 9, 58, 0.5);
-  z-index: 1;
-} */
-
 .jumbotron > .inner {
   position: relative;
   z-index: 2;
@@ -125,12 +113,6 @@ ul li:hover ul li {
   /* align-items: left; */
   height:auto;
 }
-
-/* #descriptor SECTORChart {
-  align-content: center;
-  align-items: center; */
-/* } */
-/* ----Container START---- */
 
 #dashboard{
   background-image: url('../images/a3.jpeg');
@@ -176,7 +158,6 @@ ul li:hover ul li {
   float: right;
 }
 
-
 .imageNav-header {
   /* Positioning */
   margin-bottom: 15px;
@@ -217,16 +198,6 @@ ul li:hover ul li {
 /* ----IMAGE NAV END---- */
 
 /* MAP BEGINING */
-
-/* remove default margin and padding from body */
-/* body {
-  padding: 0;
-  margin: 0;
-} */
-/* body,
-html {
-  height: 100%;
-} */
 
 /* set map, body, and html to 100% of the screen size */
 #map {
